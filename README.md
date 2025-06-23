@@ -19,6 +19,6 @@ The primary goal of the initial MVP is to replicate and replace the existing Ser
 The primary architectural document is designed to be read as a single file, but the repository is structured for clarity.
 
 -   [Architecture.md](Architecture.md): This is the main, comprehensive document containing the full architectural overview, from the high-level context to the detailed integration patterns. **This is the best place to start reading.**
--   **`/diagrams`**: This directory contains the source code for the C4 architectural diagrams in the **Structurizr DSL** format. These files are provided for anyone wishing to render the diagrams in high resolution.
+-   **`/diagrams`**: This directory contains the source code for the C4 architectural diagrams in the **Structurizr DSL** format. These files are provided for anyone wishing to render the diagrams in high resolution. There are also PNG files for quick reference.
 
 ---
